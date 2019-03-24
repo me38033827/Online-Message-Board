@@ -1,0 +1,23 @@
+@CHARSET "UTF-8";
+body{
+margin:0 auto;
+width:950px;
+height:600px;
+font-size:12px;
+}
+.top{
+width:950px;
+height:150px;
+
+}
+.logo{
+width:585px;
+height:450px;
+float:left;
+}
+.login{
+width:360px;
+height:450px;
+float:right;
+
+}
